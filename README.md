@@ -1,4 +1,4 @@
-## Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=naohiro123456)](https://git.io/streak-stats)
 
 <!--
 **naohiro123456/naohiro123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
