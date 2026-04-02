@@ -1,6 +1,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=naohiro123456&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<ユーザー名>)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<naohiro123456>)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **naohiro123456/naohiro123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
