@@ -1,7 +1,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=naohiro123456&theme=dark)](https://git.io/streak-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naohiro123456&theme=github)
-<!--
 **naohiro123456/naohiro123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
